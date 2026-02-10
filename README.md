@@ -157,7 +157,7 @@ Electricity-Consumption-Forecasting/
 
 ## 👨‍💻 Author
 
-**Yuvraj Bhavsar**  
+**Varsha Goswami**  
 📌 Aspiring Data Scientist | Machine Learning Engineer  
 🚀 Focused on End-to-End ML & Time Series Projects  
 
@@ -168,3 +168,4 @@ Electricity-Consumption-Forecasting/
 If you found this project useful, don’t forget to **⭐ star the repository** on GitHub 😄  
 Happy Forecasting ⚡📈
 "# Electricity_Consumption" 
+
